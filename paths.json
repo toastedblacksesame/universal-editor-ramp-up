@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/universal-editor-ramp-up-site/:/",
-    "/content/universal-editor-ramp-up-site/configuration:/.helix/config.json",
-    "/content/universal-editor-ramp-up-site/metadata:/metadata.json"
+    "/content/universal-editor-ramp-up-sit/:/",
+    "/content/universal-editor-ramp-up-sit/configuration:/.helix/config.json",
+    "/content/universal-editor-ramp-up-sit/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/universal-editor-ramp-up-site/"
+    "/content/universal-editor-ramp-up-sit/"
   ]
 }
