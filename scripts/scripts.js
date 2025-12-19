@@ -126,9 +126,6 @@ async function loadLazy(doc) {
 
   loadCSS(`${window.hlx.codeBasePath}/styles/lazy-styles.css`);
   loadFonts();
-
-  // Load Universal Editor support for authoring
-  import('./editor-support.js');
 }
 
 /**
