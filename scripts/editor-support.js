@@ -9,6 +9,7 @@ import {
   loadSections,
 } from './aem.js';
 import { decorateRichtext } from './editor-support-rte.js';
+// eslint-disable-next-line import/no-cycle
 import { decorateMain } from './scripts.js';
 
 async function applyChanges(event) {

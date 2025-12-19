@@ -128,6 +128,7 @@ async function loadLazy(doc) {
   loadFonts();
 
   // Load Universal Editor support for authoring
+  // eslint-disable-next-line import/no-cycle
   import('./editor-support.js');
 }
 
